@@ -1,0 +1,17 @@
+D:\csharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Calculator.exe
+D:\csharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Calculator.deps.json
+D:\csharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+D:\csharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Calculator.dll
+D:\csharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Calculator.pdb
+D:\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+D:\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Calc.resources
+D:\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+D:\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+D:\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Calculator.dll
+D:\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\Calculator.dll
+D:\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Calculator.pdb
+D:\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+D:\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\Calculator.dll
