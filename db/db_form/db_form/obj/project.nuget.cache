@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xuUTi+kSBt+LA6EtftBUFJwJ94ZjGkNTEe+CSO/rUkhpoNYGpwoqc5NTr2KWTsjqXMIA2IVxBUukF6ojak1dKg==",
+  "success": true,
+  "projectFilePath": "D:\\csharp\\db_form\\db_form\\db_form.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sofya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sofya\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\sofya\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
